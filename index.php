@@ -57,7 +57,7 @@ include_once("koneksi.php");
         } else {
     ?>
         <!-- Header-->
-        <header class="py-5" style="background-color: #0C4C93;"> <!-- Ubah Color Banner disini -->
+        <header class="py-5" style="background-color: #114D91;"> 
         <div class="container px-5">
             <div class="row gx-5 justify-content-center">
                 <div class="col-lg-6">
